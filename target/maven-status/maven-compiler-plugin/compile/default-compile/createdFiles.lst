@@ -1,0 +1,13 @@
+com\annasblackhat\PortalBeritaApiApplication.class
+com\annasblackhat\services\CommentService.class
+com\annasblackhat\model\Comment.class
+com\annasblackhat\model\Category.class
+com\annasblackhat\controller\PostController.class
+com\annasblackhat\controller\CategoryController.class
+com\annasblackhat\model\Post.class
+com\annasblackhat\repository\CategoryRepository.class
+com\annasblackhat\controller\CommentController.class
+com\annasblackhat\services\CategoryService.class
+com\annasblackhat\repository\CommentRepository.class
+com\annasblackhat\services\PostService.class
+com\annasblackhat\repository\PostRepository.class
