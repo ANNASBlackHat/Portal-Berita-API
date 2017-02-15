@@ -7,7 +7,7 @@ IDE yang digunakan adalah Spring Tool Suite (STS).
 
 ### Prerequisite Software
 Agar aplikasi ini bisa berjalan dikomputer anda, maka anda harus telah menginstall :
-  - JRE (Java Runtine Manager) 
+  - JRE (Java Runtine Environment) 
   - MySQL
   
   ---
