@@ -1,4 +1,4 @@
-Portal-Berita-API
+Portal Berita API
 ================ 
 
 Rest API Untuk Sharing Session AMCC. <br/>
