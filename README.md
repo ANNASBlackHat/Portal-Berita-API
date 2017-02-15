@@ -14,11 +14,12 @@ Agar aplikasi ini bisa berjalan dikomputer anda, maka anda harus telah menginsta
   
 ### Installation
  Untuk menjalankannya cukup mudah, download terlebih dahulu repositiry ini kemudian ikuti langkah-langkah dibwah ini :
-   - Jalankan Servis MySQL
+   - Jalankan Servis MySQL. Jika anda menjalankan Apache pastikan tidak berjalan pada port 80
    - Jalankan perintah berikut pada terminal
 ```sh
 $ cd target
 $ java -jar Portal_Berita_API-0.0.1-SNAPSHOT.jar
 ```
    - Buka browser, kemudian ketikan **http://localhost/news_portal/api/category**
+   
  
