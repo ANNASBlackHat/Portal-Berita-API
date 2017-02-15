@@ -20,5 +20,5 @@ Agar aplikasi ini bisa berjalan dikomputer anda, maka anda harus telah menginsta
 $ cd target
 $ java -jar Portal_Berita_API-0.0.1-SNAPSHOT.jar
 ```
-   - Buka browser, kemudian ketikan **http://localhost/category**
+   - Buka browser, kemudian ketikan **http://localhost/news_portal/api/category**
  
