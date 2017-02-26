@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Portal_Berita_API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ANNASBlackHat
+Implementation-Vendor-Id: com.annasblackhat
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/Portal_Berit
+ a_API/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
