@@ -16,7 +16,7 @@ Agar aplikasi ini bisa berjalan dikomputer anda, maka anda harus telah menginsta
   
 ### Installation
  Untuk menjalankannya cukup mudah, download terlebih dahulu repositiry ini kemudian ikuti langkah-langkah dibwah ini :
-   - Jalankan Servis MySQL. Dan pastikan tidak ada aplikasi yang berjalan pada port 8081
+   - Jalankan Servis MySQL. Pastikan anda tidak mengganti default usernmae serta password MySQL. Serta pastikan tidak ada aplikasi yang berjalan pada port 8081
    - Jalankan perintah berikut pada terminal
 ```sh
 $ cd target
